@@ -1,0 +1,1 @@
+[{"inputs":[{"internalType":"bytes32","name":"userHash","type":"bytes32"}],"name":"registerUser","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"bytes32","name":"userHash","type":"bytes32"}],"name":"verifyUser","outputs":[{"internalType":"bool","name":"","type":"bool"}],"stateMutability":"view","type":"function"}]
