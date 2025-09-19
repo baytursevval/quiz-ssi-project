@@ -25,7 +25,7 @@ Proje aşağıdaki mikroservislerden oluşmaktadır:
   - Kullanıcıların hash değerleri kaydedilir ve doğrulanır.  
 - **Web3j** kütüphanesi ile Java servisleri Blockchain ile konuşturuldu.
 
-## 🛠️ Kullanılan Teknolojiler
+## Kullanılan Teknolojiler
 - **Java 21** + **Spring Boot**
 - **Spring Cloud Netflix (Eureka, Gateway, Feign)**
 - **Docker** (mikroservislerin containerize edilmesi için)
@@ -34,7 +34,7 @@ Proje aşağıdaki mikroservislerden oluşmaktadır:
 - **JWT (JSON Web Token)** → Kimlik doğrulama
 - **PostgreSQL / MySQL** (isteğe bağlı, quiz ve sorular için)
 
-## 🚀 Çalıştırma Adımları
+## Çalıştırma Adımları
 1. **Blockchain Ağı Kurulumu**
    - Ganache’i başlat
    - `truffle migrate` komutu ile kontratı deploy et
